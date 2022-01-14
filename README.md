@@ -9,7 +9,7 @@ Apple profile to install [Open DNS Family Shield](https://www.opendns.com/setupg
 1. Download the profile from this page or [this link](https://raw.githubusercontent.com/janpreet/MobileConfig/main/familyShield.mobileconfig).
 2. Go to Settings -> General -> VPN & Device Management -> Downloaded Profile (OpenDNS FamilyShield) -> Install.
 
-`Can also be added as a custom profile to Jamf Pro.`
+`Can also be added as a custom profile to a Jamf blueprint. Must have Jamf Pro for that.`
 
 ## Uninstallation
 1. Go to Settings -> General -> VPN, DNS & Device Management -> Configuration Profile (OpenDNS FamilyShield) -> Remove Profile.
